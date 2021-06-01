@@ -11,8 +11,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView tvTranslatedtext;
-    TextView tvTranslatedtext2;
+    TextView tvTranslatedtext, tvTranslatedtext2;
     String wordClicked;
 
     @Override
